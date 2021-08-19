@@ -1,0 +1,14 @@
+C:\Users\msurm\csharp-practice\Class6\FunWithQuizzes\FunWithQuizzes\bin\Debug\netcoreapp3.1\FunWithQuizzes.exe
+C:\Users\msurm\csharp-practice\Class6\FunWithQuizzes\FunWithQuizzes\bin\Debug\netcoreapp3.1\FunWithQuizzes.deps.json
+C:\Users\msurm\csharp-practice\Class6\FunWithQuizzes\FunWithQuizzes\bin\Debug\netcoreapp3.1\FunWithQuizzes.runtimeconfig.json
+C:\Users\msurm\csharp-practice\Class6\FunWithQuizzes\FunWithQuizzes\bin\Debug\netcoreapp3.1\FunWithQuizzes.runtimeconfig.dev.json
+C:\Users\msurm\csharp-practice\Class6\FunWithQuizzes\FunWithQuizzes\bin\Debug\netcoreapp3.1\FunWithQuizzes.dll
+C:\Users\msurm\csharp-practice\Class6\FunWithQuizzes\FunWithQuizzes\bin\Debug\netcoreapp3.1\FunWithQuizzes.pdb
+C:\Users\msurm\csharp-practice\Class6\FunWithQuizzes\FunWithQuizzes\obj\Debug\netcoreapp3.1\FunWithQuizzes.csproj.AssemblyReference.cache
+C:\Users\msurm\csharp-practice\Class6\FunWithQuizzes\FunWithQuizzes\obj\Debug\netcoreapp3.1\FunWithQuizzes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msurm\csharp-practice\Class6\FunWithQuizzes\FunWithQuizzes\obj\Debug\netcoreapp3.1\FunWithQuizzes.AssemblyInfoInputs.cache
+C:\Users\msurm\csharp-practice\Class6\FunWithQuizzes\FunWithQuizzes\obj\Debug\netcoreapp3.1\FunWithQuizzes.AssemblyInfo.cs
+C:\Users\msurm\csharp-practice\Class6\FunWithQuizzes\FunWithQuizzes\obj\Debug\netcoreapp3.1\FunWithQuizzes.csproj.CoreCompileInputs.cache
+C:\Users\msurm\csharp-practice\Class6\FunWithQuizzes\FunWithQuizzes\obj\Debug\netcoreapp3.1\FunWithQuizzes.dll
+C:\Users\msurm\csharp-practice\Class6\FunWithQuizzes\FunWithQuizzes\obj\Debug\netcoreapp3.1\FunWithQuizzes.pdb
+C:\Users\msurm\csharp-practice\Class6\FunWithQuizzes\FunWithQuizzes\obj\Debug\netcoreapp3.1\FunWithQuizzes.genruntimeconfig.cache
