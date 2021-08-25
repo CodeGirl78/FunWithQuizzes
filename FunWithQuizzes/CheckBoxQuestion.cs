@@ -146,5 +146,5 @@ namespace FunWithQuizzes
             Console.WriteLine();
             CheckAnswers(userInput);
         }
-    } // class
-} // namespace
+    }
+} 
