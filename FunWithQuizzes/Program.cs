@@ -65,7 +65,6 @@ namespace FunWithQuizzes
                     q.PromptAndCheckAnswer();
                     Console.WriteLine();
                 }
-
             }
         }
     }
