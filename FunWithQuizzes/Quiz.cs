@@ -66,5 +66,5 @@ namespace FunWithQuizzes
                 Console.WriteLine("\n" + ASTERISK_LINE);
             }
         }
-    } // class
-} // namespace
+    }
+} 
