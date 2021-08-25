@@ -22,12 +22,12 @@ namespace FunWithQuizzes
 
         public abstract void PromptAndCheckAnswer();
 
-        //        public abstract void DisplayAnswerChoices();
+        //public abstract void DisplayAnswerChoices();
 
         public abstract void DisplayCorrectAnswers();
 
-        //        public abstract void DisplayPromptForAnswer();
+        //public abstract void DisplayPromptForAnswer();
 
-        //        public abstract void CheckAnswers(string userAnswer);
+        //public abstract void CheckAnswers(string userAnswer);
     }
 }
